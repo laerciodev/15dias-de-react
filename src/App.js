@@ -1,7 +1,8 @@
 import React from 'react';
+import Square from './components/Square';
 
 // Componente Stateless
 
-const App = () => <h1>Componente Stateless</h1>
+const App = () => <Square />
 
 export default App;
