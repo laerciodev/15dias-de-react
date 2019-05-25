@@ -1,8 +1,9 @@
 import React from 'react';
-import Square from './components/Square';
+import Board from './components/Board';
+// import Square from './components/Square';
 
 // Componente Stateless
 
-const App = () => <Square />
+const App = () => <Board />
 
 export default App;
